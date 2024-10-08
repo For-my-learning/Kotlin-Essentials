@@ -1,1 +1,1 @@
-This is my learning of kotolin.
+This is my learning kotlin
